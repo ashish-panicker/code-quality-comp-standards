@@ -170,5 +170,3 @@ This lecture focuses on maintaining high code quality and ensuring compliance wi
 * OWASP Top 10: [https://owasp.org/www-project-top-ten/](https://owasp.org/www-project-top-ten/)
 
 ---
-
-Let me know if you'd like slide content, diagrams, or demo repo setup for this lecture.
